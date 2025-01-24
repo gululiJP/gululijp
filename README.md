@@ -1,4 +1,7 @@
-[![Gululijp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gululijp)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=gululijp&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gululijp&theme=vue-dark&layout=compact" />
+</div>
 
 **About Me**  
 ぐるり。
